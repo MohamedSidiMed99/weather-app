@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 39.17,
+    "lat": 51.6664
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "سماء صافية",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 286.16,
+    "feels_like": 285.81,
+    "temp_min": 286.16,
+    "temp_max": 286.16,
+    "pressure": 1015,
+    "humidity": 88
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1655503214,
+  "sys": {
+    "type": 1,
+    "id": 9034,
+    "country": "RU",
+    "sunrise": 1655514278,
+    "sunset": 1655574251
+  },
+  "timezone": 10800,
+  "id": 472045,
+  "name": "Voronezh",
+  "cod": 200
+}
